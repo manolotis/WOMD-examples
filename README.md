@@ -14,4 +14,6 @@ Or manually installing a few of them should install everything needed:
 
 
 
-You will need to download some files within a folder "data" to run these examples
+You will need to download some files within a folder "data" to run these examples. 
+I used the first two files of the training tfExamples (dataset version 1.0, but it should work the same with 
+1.1)
